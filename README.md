@@ -1,13 +1,10 @@
-# P2P Lending platform
+# Saving & Lending App
 Peer 2 peer lending platform on the Ethereum blockchain network.
 
 # About
 
-We all know that in the Banking industry it is all about the constant search of bigger profits without caring about customers.
+Saving and lending is a category where people are doing this a lot. Using this application, people would be able to take loans on the blockchains. That means they can essentially lock up certain assets and borrow other cryptocurrencies and then pay back later after a certain amount of time.
 
-Credit borrowers are paying higher interest rates every day while people investing are having poor returns. There are also a few hidden fees that the customer doesn't know about.
-
-So we said stop. We've built a p2p blockchain lending service, fair and transparent.
 
 # Features
 
